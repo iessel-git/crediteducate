@@ -2,7 +2,7 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import Dashboard from './screens/Dashboard';
+import Dashboard from './screens/Dashboard/Dashboard';
 import Accounts from './screens/Accounts';
 import Scenarios from './screens/Scenarios';
 import Learn from './screens/Learn';
