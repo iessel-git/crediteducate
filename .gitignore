@@ -1,1 +1,9 @@
 
+```text
+// File: .gitignore
+node_modules
+.expo
+.expo-shared
+dist
+web-build
+.DS_Store
