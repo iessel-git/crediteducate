@@ -4,7 +4,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Dashboard from './screens/Dashboard/Dashboard';
 import Accounts from './screens/Accounts/Accounts';
-import Scenarios from './screens/Scenarios';
+import Scenarios from './screens/Scenarios/Scenarios';
 import Learn from './screens/Learn';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { StatusBar } from 'expo-status-bar';
